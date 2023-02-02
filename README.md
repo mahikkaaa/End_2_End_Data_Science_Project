@@ -65,6 +65,8 @@ Insights are developed to answer all the above questions with the help of pandas
 
 I also performed Keyword extraction to remove stopwords. Stopword is a word that is automatically omitted from a computer-generated concordance or index.Examples of stop words in English are “a”, “the”, “is”, “are” and etc. Stop words are commonly used in Text Mining and Natural Language Processing (NLP) to eliminate words that are so commonly used that they carry very little useful information.
 
+Libraries used: pandas, numpy, matplotlib, seaborn, warnings, datetime, neattext, counter, rake.
+
 If you find this insightful, feel free to star it. Any issues can be notified to me.
 
 If you wanna work with this analysis, you can:
